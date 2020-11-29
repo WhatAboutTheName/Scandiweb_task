@@ -1,0 +1,7 @@
+.carousel-swipe {
+  transition: top 0.5s ease-out;
+}
+
+.carousel-element_swipe_animation {
+    top: -100%;
+}
